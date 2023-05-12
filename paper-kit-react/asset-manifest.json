@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/paper-kit-react/static/css/main.e73594be.css",
-    "main.js": "/paper-kit-react/static/js/main.a218b74e.js",
+    "main.js": "/paper-kit-react/static/js/main.389dd1e6.js",
     "static/media/publication_4.pdf": "/paper-kit-react/static/media/publication_4.727a29a37dc22392d3e5.pdf",
     "static/media/publication_5.pdf": "/paper-kit-react/static/media/publication_5.727a29a37dc22392d3e5.pdf",
     "static/media/publication_1.pdf": "/paper-kit-react/static/media/publication_1.0158f83a6460cf68de51.pdf",
@@ -16,6 +16,6 @@
   },
   "entrypoints": [
     "static/css/main.e73594be.css",
-    "static/js/main.a218b74e.js"
+    "static/js/main.389dd1e6.js"
   ]
 }
